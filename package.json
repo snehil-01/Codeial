@@ -1,0 +1,30 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "My all Socail Media App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "snehil",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.3.6",
+    "node-sass-middleware": "^1.0.1",
+    "nodemon": "^2.0.16",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "routes": "^2.1.0"
+  }
+}
