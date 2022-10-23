@@ -1,10 +1,44 @@
-# Codeial
-It is a web app which offers  features like a chat engine,a wall to share your posts and comments and a mailing service too. 
 
-<ul>
- <li> Clone the project onto your local machine.</li>
-<li>Then cd codeial</li>
-<li>npm install</li>
-<li>npm start</li>
-<li>Visit your app at http://localhost:8000.</li>
-<ul>
+# Codeial
+
+A Full Stack Web App where you can post,like,comment and delete feeds!!
+This is My first Full Stack Application which perform all CRUD operations
+## Tech Stack
+
+**Client:** EJS Template Engine
+
+**Server:** Node JS, Express JS
+
+**Database:** Mongo DB
+  
+## Demo
+
+
+![](https://github.com/snehil-01/Lets-Talk-by-snehil/blob/main/screenshots/single-chat.png)
+## Run Locally
+
+Clone the project
+
+```bash
+  https://github.com/snehil-01/Codeial
+```
+
+Go to the project directory
+
+```bash
+  cd codeial
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+
+Start the server
+
+```bash
+  npm run start
+```
+
