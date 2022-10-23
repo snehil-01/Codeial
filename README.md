@@ -1,7 +1,7 @@
 
 # Codeial
 
-A Full Stack Web App where you can post,like,comment and delete feeds!!
+A Full Stack Web App where you can post,like,comment and delete feeds!! <br>
 This is My first Full Stack Application which perform all CRUD operations
 ## Tech Stack
 
